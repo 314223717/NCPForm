@@ -1,0 +1,80 @@
+E:\工作\老黄\WindowsFormsControlLibrary1 - 副本\WindowsFormsControlLibrary1\obj\Debug\NCP.Form1.resources
+E:\工作\老黄\WindowsFormsControlLibrary1 - 副本\WindowsFormsControlLibrary1\obj\Debug\NCPForm.csproj.GenerateResource.cache
+E:\工作\老黄\WindowsFormsControlLibrary1 - 副本\WindowsFormsControlLibrary1\obj\Debug\NCPForm.csproj.CoreCompileInputs.cache
+E:\工作\老黄\WindowsFormsControlLibrary1 - 副本\WindowsFormsControlLibrary1\bin\Debug\EntityFramework.dll
+E:\工作\老黄\WindowsFormsControlLibrary1 - 副本\WindowsFormsControlLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+E:\工作\老黄\WindowsFormsControlLibrary1 - 副本\WindowsFormsControlLibrary1\bin\Debug\System.Data.SQLite.dll
+E:\工作\老黄\WindowsFormsControlLibrary1 - 副本\WindowsFormsControlLibrary1\bin\Debug\System.Data.SQLite.EF6.dll
+E:\工作\老黄\WindowsFormsControlLibrary1 - 副本\WindowsFormsControlLibrary1\bin\Debug\System.Data.SQLite.Linq.dll
+E:\工作\老黄\WindowsFormsControlLibrary1 - 副本\WindowsFormsControlLibrary1\bin\Debug\EntityFramework.xml
+E:\工作\老黄\WindowsFormsControlLibrary1 - 副本\WindowsFormsControlLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+E:\工作\老黄\WindowsFormsControlLibrary1 - 副本\WindowsFormsControlLibrary1\bin\Debug\System.Data.SQLite.xml
+E:\工作\老黄\WindowsFormsControlLibrary1 - 副本\WindowsFormsControlLibrary1\bin\Debug\System.Data.SQLite.dll.config
+E:\工作\老黄\WindowsFormsControlLibrary1 - 副本\WindowsFormsControlLibrary1\obj\Debug\NCPForm.csproj.CopyComplete
+E:\工作\老黄\WindowsFormsControlLibrary1 - 副本\WindowsFormsControlLibrary1\obj\Debug\NCPForm.csprojAssemblyReference.cache
+E:\工作\老黄\WindowsFormsControlLibrary1 - 副本\WindowsFormsControlLibrary1\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\工作\老黄\WindowsFormsControlLibrary1 - 副本\WindowsFormsControlLibrary1\bin\Debug\NPOI.dll
+E:\工作\老黄\WindowsFormsControlLibrary1 - 副本\WindowsFormsControlLibrary1\bin\Debug\NPOI.OOXML.dll
+E:\工作\老黄\WindowsFormsControlLibrary1 - 副本\WindowsFormsControlLibrary1\bin\Debug\NPOI.OpenXml4Net.dll
+E:\工作\老黄\WindowsFormsControlLibrary1 - 副本\WindowsFormsControlLibrary1\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\工作\老黄\WindowsFormsControlLibrary1 - 副本\WindowsFormsControlLibrary1\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\工作\老黄\WindowsFormsControlLibrary1 - 副本\WindowsFormsControlLibrary1\bin\Debug\NCPForm.exe.config
+E:\工作\老黄\WindowsFormsControlLibrary1 - 副本\WindowsFormsControlLibrary1\bin\Debug\NCPForm.exe
+E:\工作\老黄\WindowsFormsControlLibrary1 - 副本\WindowsFormsControlLibrary1\bin\Debug\NCPForm.pdb
+E:\工作\老黄\WindowsFormsControlLibrary1 - 副本\WindowsFormsControlLibrary1\obj\Debug\NCPForm.exe
+E:\工作\老黄\WindowsFormsControlLibrary1 - 副本\WindowsFormsControlLibrary1\obj\Debug\NCPForm.pdb
+E:\工作\老黄\NCPForm\NCPForm\bin\Debug\NCPForm.exe.config
+E:\工作\老黄\NCPForm\NCPForm\bin\Debug\NCPForm.exe
+E:\工作\老黄\NCPForm\NCPForm\bin\Debug\NCPForm.pdb
+E:\工作\老黄\NCPForm\NCPForm\bin\Debug\EntityFramework.dll
+E:\工作\老黄\NCPForm\NCPForm\bin\Debug\EntityFramework.SqlServer.dll
+E:\工作\老黄\NCPForm\NCPForm\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\工作\老黄\NCPForm\NCPForm\bin\Debug\NPOI.dll
+E:\工作\老黄\NCPForm\NCPForm\bin\Debug\NPOI.OOXML.dll
+E:\工作\老黄\NCPForm\NCPForm\bin\Debug\NPOI.OpenXml4Net.dll
+E:\工作\老黄\NCPForm\NCPForm\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\工作\老黄\NCPForm\NCPForm\bin\Debug\System.Data.SQLite.dll
+E:\工作\老黄\NCPForm\NCPForm\bin\Debug\System.Data.SQLite.EF6.dll
+E:\工作\老黄\NCPForm\NCPForm\bin\Debug\System.Data.SQLite.Linq.dll
+E:\工作\老黄\NCPForm\NCPForm\bin\Debug\EntityFramework.xml
+E:\工作\老黄\NCPForm\NCPForm\bin\Debug\EntityFramework.SqlServer.xml
+E:\工作\老黄\NCPForm\NCPForm\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\工作\老黄\NCPForm\NCPForm\bin\Debug\System.Data.SQLite.xml
+E:\工作\老黄\NCPForm\NCPForm\bin\Debug\System.Data.SQLite.dll.config
+E:\工作\老黄\NCPForm\NCPForm\obj\Debug\NCP.Form1.resources
+E:\工作\老黄\NCPForm\NCPForm\obj\Debug\NCPForm.csproj.GenerateResource.cache
+E:\工作\老黄\NCPForm\NCPForm\obj\Debug\NCPForm.csproj.CoreCompileInputs.cache
+E:\工作\老黄\NCPForm\NCPForm\obj\Debug\NCPForm.csproj.CopyComplete
+E:\工作\老黄\NCPForm\NCPForm\obj\Debug\NCPForm.exe
+E:\工作\老黄\NCPForm\NCPForm\obj\Debug\NCPForm.pdb
+E:\工作\老黄\NCPForm\obj\Debug\NCPForm.exe
+E:\工作\老黄\NCPForm\obj\Debug\NCPForm.pdb
+E:\工作\老黄\NCPForm\NCPForm\obj\Debug\NCPForm.csprojAssemblyReference.cache
+F:\Poject\NCPForm\NCPForm\bin\Debug\NCPForm.exe.config
+F:\Poject\NCPForm\NCPForm\bin\Debug\NCPForm.exe.manifest
+F:\Poject\NCPForm\NCPForm\bin\Debug\NCPForm.application
+F:\Poject\NCPForm\NCPForm\bin\Debug\NCPForm.exe
+F:\Poject\NCPForm\NCPForm\bin\Debug\NCPForm.pdb
+F:\Poject\NCPForm\NCPForm\bin\Debug\EntityFramework.dll
+F:\Poject\NCPForm\NCPForm\bin\Debug\EntityFramework.SqlServer.dll
+F:\Poject\NCPForm\NCPForm\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Poject\NCPForm\NCPForm\bin\Debug\NPOI.dll
+F:\Poject\NCPForm\NCPForm\bin\Debug\NPOI.OOXML.dll
+F:\Poject\NCPForm\NCPForm\bin\Debug\NPOI.OpenXml4Net.dll
+F:\Poject\NCPForm\NCPForm\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\Poject\NCPForm\NCPForm\bin\Debug\System.Data.SQLite.dll
+F:\Poject\NCPForm\NCPForm\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Poject\NCPForm\NCPForm\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Poject\NCPForm\NCPForm\bin\Debug\EntityFramework.xml
+F:\Poject\NCPForm\NCPForm\bin\Debug\EntityFramework.SqlServer.xml
+F:\Poject\NCPForm\NCPForm\bin\Debug\ICSharpCode.SharpZipLib.xml
+F:\Poject\NCPForm\NCPForm\bin\Debug\System.Data.SQLite.xml
+F:\Poject\NCPForm\NCPForm\bin\Debug\System.Data.SQLite.dll.config
+F:\Poject\NCPForm\NCPForm\obj\Debug\NCP.Form1.resources
+F:\Poject\NCPForm\NCPForm\obj\Debug\NCPForm.Properties.Resources.resources
+F:\Poject\NCPForm\NCPForm\obj\Debug\NCPForm.csproj.GenerateResource.cache
+F:\Poject\NCPForm\NCPForm\obj\Debug\NCPForm.exe.manifest
+F:\Poject\NCPForm\NCPForm\obj\Debug\NCPForm.application
+F:\Poject\NCPForm\NCPForm\obj\Debug\NCPForm.csproj.CopyComplete
+F:\Poject\NCPForm\NCPForm\obj\Debug\NCPForm.exe
+F:\Poject\NCPForm\NCPForm\obj\Debug\NCPForm.pdb
